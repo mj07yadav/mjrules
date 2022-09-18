@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mritunjay</groupId>
 	<artifactId>mjrules</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>mjrules</name>
 	<description>Full fledged Rule engine build upon spring boot </description>
 	<properties>
